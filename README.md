@@ -7,6 +7,16 @@ Week 1 Cybersecurity Lab setup using VirtualBox + Kali Linux.
 This project documents my Week 1 cybersecurity lab setup using **VirtualBox** and **Kali Linux**.  
 The lab provides a safe sandbox for penetration testing, ethical hacking practice, and network security experiments without risking my host machine or home network
 
+Lab Environment Details
+| Component        | Details |
+|------------------|---------|
+| Host Machine     | [Intel Core i5, Windows 11 ] |
+| VirtualBox       | [7.2.14   ] |
+| Guest OS         | Kali Linux [2026] |
+| Network Type     | NATNetwork |
+| IP Range         | 10.0.0.0/24 |
+
+
 # Step-by-Step Setup
  
 1. Installed VirtualBox on my host machine.
