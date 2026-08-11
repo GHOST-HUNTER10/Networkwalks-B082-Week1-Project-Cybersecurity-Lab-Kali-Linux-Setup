@@ -10,8 +10,6 @@ The lab provides a safe sandbox for penetration testing, ethical hacking practic
 # Step-by-Step Setup
  
 1. Installed VirtualBox on my host machine.
-<img src="VIRTUAL%20BOX%20INSTALL.jpeg" alt="VirtualBox Installed" width="90">
-
 2. Created a NATNetwork with IP range `10.0.0.0/24`.
 3. Imported Kali Linux VM into VirtualBox.  
 4. Configured the IP settings for Kali Linux.  
