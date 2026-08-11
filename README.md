@@ -18,7 +18,7 @@ The lab provides a safe sandbox for penetration testing, ethical hacking practic
 
 # Verification Tests
 - `ping 10.0.0.1` → Gateway reachable
-- - `ip a` output confirms correct IP assignment 
+- ip a` output confirms correct IP assignment 
 - `ping <other VM IP>` → VM-to-VM connectivity    
 - Internet connectivity check successful 
 
