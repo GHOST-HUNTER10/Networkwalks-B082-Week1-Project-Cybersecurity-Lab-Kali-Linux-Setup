@@ -17,9 +17,10 @@ The lab provides a safe sandbox for penetration testing, ethical hacking practic
 6. Captured snapshots for rollback and backup.  
 
 # Verification Tests
-- `ping 10.0.0.1` → Gateway reachable   
-- `ping <other VM IP>` → VM-to-VM connectivity 
-- `ip a` output confirms correct IP assignment   
+- `ping 10.0.0.1` → Gateway reachable
+- - `ip a` output confirms correct IP assignment 
+-  ![IP Address Screenshot](IP.PNG.jpeg)
+- `ping <other VM IP>` → VM-to-VM connectivity    
 - Internet connectivity check successful 
 
 
