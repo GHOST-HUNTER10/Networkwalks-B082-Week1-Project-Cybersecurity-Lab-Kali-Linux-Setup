@@ -19,32 +19,52 @@ The lab provides a safe sandbox for penetration testing, ethical hacking practic
 
 
 
+
 # Step-by-Step Setup
  
-1. Installed VirtualBox on my host machine.
+#1. Installed VirtualBox on my host machine.
+   
+   VirtualBox was installed on the host machine.
+   
 <img src="virtual%20box%20on%20host%20machine%201.jpeg" alt="VirtualBox on Host Machine" width="300">
 
 2. Created a NATNetwork with IP range `10.0.0.0/24`.
+   
+   A dedicated NAT Network was created in VirtualBox with the IPv4 prefix 10.0.0.0/24.
+ 
  <img src="create%20natnetwork%20%202.jpeg" alt="Create NAT Network" width="300">
   
 3. Imported Kali Linux VM into VirtualBox.
+   
+   The Kali Linux virtual machine was imported into VirtualBox and attached to the NAT Network.
+   
 <img src="import%20kali%203.jpeg" alt="Import Kali Linux VM" width="300">
 
     
 4. Configured the IP settings for Kali Linux.
+   
+    The Kali VM was configured with a static IP address `10.0.0.2/24`.
+
  <img src="kali%20ip%20setting%204.jpeg" alt="Kali IP Settings Screenshot" width="300">
 
 <img src="kali%20ip%20setting%20(4).jpeg" alt="Kali IP Settings Screenshot (Alternate)" width="300">    
 
 
-5. Verified connectivity with ping tests.
+ 5. Verified connectivity with ping tests.
+   
+    The Kali VM was tested for gateway, internet, and DNS connectivity.
+
 <img src="connectivity%20verify%20(5).jpeg" alt="Connectivity Verification Screenshot 1" width="300">
 
 <img src="verify%20connectivity%205.jpeg" alt="Connectivity Verification Screenshot 2" width="300">
 
    
-     
-7. Captured snapshots for rollback and backup.
+6.  Captured snapshots for rollback and backup.
+   
+    A baseline snapshot was created to allow rollback and recovery.
+
+<img src="snapshot.jpeg" alt="VirtualBox Snapshot Screenshot" width="400">
+
      
 
 # Verification Tests
