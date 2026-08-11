@@ -32,7 +32,11 @@ The lab provides a safe sandbox for penetration testing, ethical hacking practic
 
     
 4. Configured the IP settings for Kali Linux.
-     
+ <img src="kali%20ip%20setting%204.jpeg" alt="Kali IP Settings Screenshot" width="300">
+
+<img src="kali%20ip%20setting%20(4).jpeg" alt="Kali IP Settings Screenshot (Alternate)" width="300">    
+
+
 5. Verified connectivity with ping tests.
      
 6. Captured snapshots for rollback and backup.
