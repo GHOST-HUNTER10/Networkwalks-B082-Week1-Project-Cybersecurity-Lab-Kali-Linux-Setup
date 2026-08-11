@@ -12,7 +12,9 @@ The lab provides a safe sandbox for penetration testing, ethical hacking practic
 1. Installed VirtualBox on my host machine.
 <img src="VIRTUAL%20BOX%20INSTALL.jpeg" alt="VirtualBox Installed" width="90">
 
-3. Created a NATNetwork with IP range `10.0.0.0/24`.  
+2. Created a NATNetwork with IP range `10.0.0.0/24`.
+   <img src="NATNETCONFIG.jpeg" alt="NATNetwork Settings" width="90">
+ 
 4. Imported Kali Linux VM into VirtualBox.  
 5. Configured the IP settings for Kali Linux.  
 6. Verified connectivity with ping tests.  
