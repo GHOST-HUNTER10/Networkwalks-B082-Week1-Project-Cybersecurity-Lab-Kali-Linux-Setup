@@ -38,8 +38,13 @@ The lab provides a safe sandbox for penetration testing, ethical hacking practic
 
 
 5. Verified connectivity with ping tests.
+<img src="connectivity%20verify%20(5).jpeg" alt="Connectivity Verification Screenshot 1" width="300">
+
+<img src="verify%20connectivity%205.jpeg" alt="Connectivity Verification Screenshot 2" width="300">
+
+   
      
-6. Captured snapshots for rollback and backup.
+7. Captured snapshots for rollback and backup.
      
 
 # Verification Tests
