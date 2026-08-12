@@ -1,5 +1,8 @@
 # Networkwalks-B082-Week1-Project-Cybersecurity-Lab-Kali-Linux-Setup
 Week 1 Cybersecurity Lab setup using VirtualBox + Kali Linux.
+<p align="center">
+  <img src="main.jpeg" alt="Cybersecurity Lab Setup Thumbnail" width="600">
+</p>
 
 
 # Project Overview
